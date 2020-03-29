@@ -5,10 +5,10 @@ Dockerfile which installs Node-SASS in an Alpine Linux image.
 https://hub.docker.com/r/blairguk/node-sass-alpine/
 
 # Pull image
-docker pull blairguk/node-sass-alpine
+`docker pull blairguk/node-sass-alpine`
 
 # Run image
-docker run blairguk/node-sass-alpine:<NODE_VERSION> node-sass-alpine
+`docker run blairguk/node-sass-alpine:<NODE_VERSION> node-sass-alpine`
 
 # Upgrade Node
 
