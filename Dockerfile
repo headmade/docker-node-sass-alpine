@@ -27,3 +27,4 @@ RUN touch $HOME/.npmrc && echo "sass_binary_cache=${SASS_BINARY_PATH}" >> $HOME/
 
 ENV SKIP_SASS_BINARY_DOWNLOAD_FOR_CI true
 ENV SKIP_NODE_SASS_TESTS true
+
